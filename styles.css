@@ -1,0 +1,18 @@
+.formTitle {
+    color: blue;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: aliceblue;
+    color: green;
+    width: 30%;
+    
+}
+
+input, button, a, p {
+    width: 50%;
+    margin: 10px 10px;
+}
