@@ -6,13 +6,29 @@ form {
     display: flex;
     flex-direction: column;
     
-    background-color: aliceblue;
+    background-color: lightgray;
     color: green;
-    width: 30%;
-    
+    width: 50%;    
+}
+
+#form__id {
+    color: #ff0000;
 }
 
 input, button, a, p {
     width: 50%;
     margin: 10px 10px;
+    font-size: 1.2rem;
+}
+
+html {
+    font-size: 1.5vw;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 2rem;
 }
